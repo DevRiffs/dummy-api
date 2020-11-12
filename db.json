@@ -1,0 +1,17 @@
+{
+  "shipping": [
+    {
+      "id": 1,
+      "title": "Dummy 50",
+      "price": 50
+    },
+    {
+      "id": 2,
+      "title": "Dummy 100",
+      "price": 100
+    }
+  ],
+  "something": {
+    "name": "typicode"
+  }
+}
